@@ -2,8 +2,6 @@ package leetcode;
 
 import java.util.Random;
 
-import javax.print.attribute.standard.RequestingUserName;
-
 public class ShuffleAnArray {
 	public int nums[];
 	public Random random;
